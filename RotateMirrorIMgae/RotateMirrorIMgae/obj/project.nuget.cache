@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DYb+H99sLRKUsJb8AJoOFJls7i3U8IXfsB0h3sRu+wpHODnwYMyLpmgUBGvK+zWecHrrdqBO3pJ3TK1jLFBRAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zxshx\\OneDrive\\Desktop\\C# mid 1\\RotateMirrorIMgae\\RotateMirrorIMgae\\RotateMirrorIMgae.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zxshx\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Zxshx\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Zxshx\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Zxshx\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

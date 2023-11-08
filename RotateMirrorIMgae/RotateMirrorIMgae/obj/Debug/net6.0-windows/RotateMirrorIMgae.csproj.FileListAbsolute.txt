@@ -1,0 +1,16 @@
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\RotateMirrorIMgae\RotateMirrorIMgae\bin\Debug\net6.0-windows\RotateMirrorIMgae.exe
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\RotateMirrorIMgae\RotateMirrorIMgae\bin\Debug\net6.0-windows\RotateMirrorIMgae.deps.json
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\RotateMirrorIMgae\RotateMirrorIMgae\bin\Debug\net6.0-windows\RotateMirrorIMgae.runtimeconfig.json
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\RotateMirrorIMgae\RotateMirrorIMgae\bin\Debug\net6.0-windows\RotateMirrorIMgae.dll
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\RotateMirrorIMgae\RotateMirrorIMgae\bin\Debug\net6.0-windows\RotateMirrorIMgae.pdb
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\RotateMirrorIMgae\RotateMirrorIMgae\obj\Debug\net6.0-windows\RotateMirrorIMgae.Form1.resources
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\RotateMirrorIMgae\RotateMirrorIMgae\obj\Debug\net6.0-windows\RotateMirrorIMgae.csproj.GenerateResource.cache
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\RotateMirrorIMgae\RotateMirrorIMgae\obj\Debug\net6.0-windows\RotateMirrorIMgae.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\RotateMirrorIMgae\RotateMirrorIMgae\obj\Debug\net6.0-windows\RotateMirrorIMgae.AssemblyInfoInputs.cache
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\RotateMirrorIMgae\RotateMirrorIMgae\obj\Debug\net6.0-windows\RotateMirrorIMgae.AssemblyInfo.cs
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\RotateMirrorIMgae\RotateMirrorIMgae\obj\Debug\net6.0-windows\RotateMirrorIMgae.csproj.CoreCompileInputs.cache
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\RotateMirrorIMgae\RotateMirrorIMgae\obj\Debug\net6.0-windows\RotateMirrorIMgae.dll
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\RotateMirrorIMgae\RotateMirrorIMgae\obj\Debug\net6.0-windows\refint\RotateMirrorIMgae.dll
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\RotateMirrorIMgae\RotateMirrorIMgae\obj\Debug\net6.0-windows\RotateMirrorIMgae.pdb
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\RotateMirrorIMgae\RotateMirrorIMgae\obj\Debug\net6.0-windows\RotateMirrorIMgae.genruntimeconfig.cache
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\RotateMirrorIMgae\RotateMirrorIMgae\obj\Debug\net6.0-windows\ref\RotateMirrorIMgae.dll
